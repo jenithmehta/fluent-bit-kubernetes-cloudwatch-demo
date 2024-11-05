@@ -2,7 +2,7 @@
 
 ### Usecase:
 
-- Storing kubernetes logs is a challenge for many projects. This repository is a demonstrates streaming of logs to cloudwatch using fluent-bit as a collector
+- Storing kubernetes logs is a challenge for many projects. This project demonstrates the streaming of logs to Cloudwatch using fluent-bit as a collector.
 
 ### Architecture diagram:
 
